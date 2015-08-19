@@ -5,7 +5,7 @@
 struct informacion{
 char nombre[20];
 char apellido[20];
-char carrera[20];struct y apuntadoresstruct y apuntadores
+char carrera[20];
 int codigo;
 int edad;
 int estado;
